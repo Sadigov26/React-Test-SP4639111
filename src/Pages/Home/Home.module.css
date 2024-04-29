@@ -1,0 +1,25 @@
+.productContainer{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.Procard{
+    background-color: rgb(39, 90, 90);
+    display: fl ex;
+    justify-content: space-between;
+    align-items: start;
+    width: 90%;
+}
+.Card{
+       background-color: rgb(40, 56, 56);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 10%;
+    img{
+        width: 100%;
+    }
+}

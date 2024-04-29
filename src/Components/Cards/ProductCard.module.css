@@ -1,0 +1,33 @@
+/* .productContainer {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    background-color: aqua;
+    flex-wrap: wrap;
+
+}
+
+.Procard {
+    width: 80%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+
+.card {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    width: 15%;
+    padding: 10px;
+    background-color: brown;
+
+    img {
+        width: 100%;
+    }
+} */
